@@ -1,4 +1,1 @@
-# fraud detection
-proposal
-
-code
+# Credit card fraud detection
